@@ -1,0 +1,108 @@
+  body,html {
+  margin: 0;
+  padding: 0;
+  background-color: #EAF6F6;
+}
+
+header{
+  width: 100%;
+  height: 70px;
+  background-color: #282828;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.nav {
+  position: absolute;
+  padding: 3px;
+  float: left;
+  margin-left: 2%;
+  margin-top: 10px;
+  font-family: 'Alfa Slab One', cursive;
+  color: #66bfbf;
+}
+
+span {
+  color: #ffffff;
+}
+
+ul {
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
+
+li {
+  display: inline-block;
+  padding: 15px 30px;
+}
+
+a {
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+}
+
+a:hover {
+  color: #F0c330;
+  transition: 0.5s;
+}
+
+h1 {
+  color: #66bfbf;
+}
+
+a {
+  text-decoration: none;
+}
+
+p{
+  text-align: center;
+}
+
+.contactme{
+  color: black;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+}
+
+.hobbies{
+  height: 25%;
+  width: 25%;
+}
+
+.project{
+  color: black;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+}
+
+.projects{
+  height: 50%;
+  width: 50%;
+}
+
+.form{
+  position: absolute;
+  left: 50%;
+}
+
+.footer{
+  margin: auto;
+}
+
+#thanks{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
